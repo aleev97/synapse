@@ -4,7 +4,6 @@
 // 1. Reutilizarlo en todas las rutas
 // 2. Agregar transiciones de página en un solo lugar
 // 3. Mantener App.tsx limpio
-
 interface AppLayoutProps {
   children: React.ReactNode
 }
